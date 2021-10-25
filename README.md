@@ -8,12 +8,12 @@ This guide provides step-by-step instructions for how to set up TensorFlow’s O
 Google collab is included with output.
 
 ## Table of Contents
-1. [Installing TensorFlow and TensorFlow Object Detection API](#-1.Installing-TensorFlow)
-2. [Preparing our Workspace](#-2.Preparing-our-workspace)
-3. [Gathering and Labeling our Dataset](#-3.Gathering-and-Labeling-our-Dataset)
-4. [Generating Training Data](#-4.Generating-Training-Data)
-5. [Training the Model](#-5.Training-the-Model)
-6. [Exporting the Model](#-6.Exporting-the-Model)
+1. [Installing TensorFlow and TensorFlow Object Detection API](#1installing-tensorflow)
+2. [Preparing our Workspace](#2preparing-our-workspace)
+3. [Gathering and Labeling our Dataset](#3gathering-and-labeling-our-dataset)
+4. [Generating Training Data](#4generating-training-data)
+5. [Training the Model](#5training-the-model)
+6. [Exporting the Model](#6exporting-the-model)
 
 ## The Steps
 # 1.Installing TensorFlow
