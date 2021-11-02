@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Moje-slike-diplomski</folder>
+	<filename>18-4.jpg</filename>
+	<path>C:\Users\Vale\Desktop\Moje-slike-diplomski\18-4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tramvaj</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>616</xmin>
+			<ymin>399</ymin>
+			<xmax>1333</xmax>
+			<ymax>748</ymax>
+		</bndbox>
+	</object>
+</annotation>
