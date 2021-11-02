@@ -186,7 +186,7 @@ image-loss-250
 Training can be stopped and continued later. To do so, edit checkpoint in pipeline.config to path to "workspace/models/efficient-det-d0-v1/ckpt-X" where X is highest checkpoint number.
 
 # 6.Exporting the Model
-Models is exported so it be used for inference. 
+Models should be exported so it can be used for inference. 
 ```
 !python exporter_main_v2.py --input_type image_tensor --pipeline_config_path models/"name_of_model"/pipeline.config --trained_checkpoint_dir models/"name_of_model"/ --output_directory exported-models/my_model_"name_of_model"
 ```
