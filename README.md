@@ -166,7 +166,7 @@ Edit the following parametars(this is specifically for EfficientDet but it's sim
 12:input_path: "/content/gdrive/MyDrive/TensorFlow/workspace/annotations/tram-valid.tfrecord"
 
 **Extra**
-"iou_threshold" has been lowered to 0.40. This is usually at 0.50 and be 100% sure what this means if you want to lower the value.
+"iou_threshold" has been lowered to 0.40. This is usually at 0.50.
 ----------------------------------------------------------------------------------------
 # Training is started using following command:
 ```
